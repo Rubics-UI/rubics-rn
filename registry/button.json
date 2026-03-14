@@ -1,0 +1,5 @@
+{
+  "name": "button",
+  "files": ["button.tsx"],
+  "registryDependencies": ["theme", "utils"]
+}
