@@ -1,6 +1,7 @@
 import { forwardRef } from "react"
 import type { ComponentProps } from "react"
 import { Text, TextInput, View } from "react-native"
+import React from 'react'
 
 import { useTheme } from "../theme"
 import { createVariants } from "../utils/variants"

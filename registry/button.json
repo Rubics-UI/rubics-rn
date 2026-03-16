@@ -1,5 +1,6 @@
 {
   "name": "button",
   "files": ["button.tsx"],
-  "registryDependencies": ["theme", "utils"]
+  "registryDependencies": ["theme", "utils"],
+  "npmDependencies": ["class-variance-authority"]
 }

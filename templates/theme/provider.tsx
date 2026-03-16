@@ -1,6 +1,7 @@
 import type { ReactNode } from "react"
 import { createContext, useContext, useMemo, useState } from "react"
 import { useColorScheme } from "react-native"
+import React from 'react'
 
 import { darkPalette, lightPalette } from "./palette"
 import type { AppTheme } from "./types"

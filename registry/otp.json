@@ -1,0 +1,7 @@
+{
+  "name": "otp",
+  "files": ["otp.tsx"],
+  "registryDependencies": ["theme", "utils"],
+  "npmDependencies": []
+}
+

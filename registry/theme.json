@@ -1,0 +1,6 @@
+{
+  "name": "theme",
+  "files": ["index.ts"],
+  "registryDependencies": [],
+  "npmDependencies": []
+}

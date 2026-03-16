@@ -2,6 +2,7 @@ import { Text, TouchableOpacity, View } from "react-native"
 import type { ComponentProps } from "react"
 import { useTheme } from "../theme"
 import { createVariants } from "../utils/variants"
+import React from 'react'
 
 type Props = {
   checked: boolean

@@ -1,0 +1,6 @@
+{
+  "name": "utils",
+  "files": ["utils.ts"],
+  "registryDependencies": [],
+  "npmDependencies": []
+}

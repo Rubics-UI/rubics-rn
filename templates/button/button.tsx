@@ -2,6 +2,7 @@ import type { ReactNode, ComponentProps } from "react";
 import { ActivityIndicator, Text, TouchableOpacity } from "react-native";
 import { useTheme } from "../theme";
 import { createVariants } from "../utils/variants";
+import React from 'react'
 
 type ButtonVariant = "default" | "outline" | "ghost";
 type ButtonSize = "sm" | "md" | "lg";

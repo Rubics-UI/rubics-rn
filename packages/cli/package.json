@@ -1,8 +1,12 @@
 {
-  "name": "rn-ui",
+  "name": "rubics",
   "version": "0.0.1",
+  "scripts": {
+    "build": "tsc && chmod +x dist/index.js",
+    "dev": "tsx src/index.ts"
+  },
   "bin": {
-    "rn-ui": "tsx src/index.ts"
+    "rubics": "./dist/index.js"
   },
   "dependencies": {
     "chalk": "^5.3.0",
