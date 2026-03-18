@@ -1,0 +1,9 @@
+{
+    "name": "slider",
+    "files": ["slider.tsx"],
+    "registryDependencies": ["theme", "utils"],
+    "npmDependencies": [
+      "react-native-reanimated",
+      "react-native-gesture-handler"
+    ]
+  }
